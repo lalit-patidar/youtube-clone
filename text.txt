@@ -1,0 +1,2 @@
+https://api.themoviedb.org/3/movie/550?api_key=42ec2348f6e0d18f786ab75e90cb714e
+api key - 42ec2348f6e0d18f786ab75e90cb714e
